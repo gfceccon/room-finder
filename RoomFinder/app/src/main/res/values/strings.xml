@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room Finder</string>
+    <string name="title_activity_map_viewer">View</string>
+</resources>
